@@ -16,11 +16,13 @@ p {
 }
 
 ul {
-  font-size: 40px;
-  line-height: 60px;
+  list-style-type: none;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 body {
+  
   background-color: lightskyblue;
   font-family: sans-serif;
   text-align: center;
