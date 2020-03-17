@@ -1,26 +1,27 @@
 h1 {
-  text-align: center;
+  color: blueviolet;
+  text-align: left;
 }
 
 h2 {
+  color: darkblue;
   font-style: underline;
-  text-align: center;
-  font-weight: 400;
+  text-align: centerleft;
+  font-weight: 1000;
 }
 
 
 p {
-  
-  font-family: sans-serif;
+  font-family: serif;
 }
 
 ul {
-  list-style-type: none;
-  font-size: 20px;
-  line-height: 20px;
+  font-size: 40px;
+  line-height: 60px;
 }
 
 body {
-
+  background-color: lightskyblue;
+  font-family: sans-serif;
   text-align: center;
 }
