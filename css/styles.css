@@ -1,19 +1,27 @@
 h1 {
-  color: #0000ff;
+  color: darkred;
   text-align: center;
 }
 
 h2 {
+  color: crimson;
   font-style: italic;
-  text-align: center;
-  font-weight: 800;
+  text-align: right;
+  font-weight: 400;
 }
 
 p {
+  color: orangered;
   font-family: sans-serif;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+body {
+  background-color: palevioletred;
+  font-family: serif;
+  text-align: center;
 }
